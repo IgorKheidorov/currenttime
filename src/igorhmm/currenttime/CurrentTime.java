@@ -5,7 +5,8 @@ import java.util.Calendar;
 /**
  * Class to determine current system time 
  */	 
-public class CurrentTime{
+public class CurrentTime {
+	
 	/**
 	 * Returns current system time in given format
 	 * @param  timeFormat Desirable format for current time output
